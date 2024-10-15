@@ -20,9 +20,9 @@ Our mission is to provide guidance, tools, and a supportive community to help yo
 - [Newsletter Sign up](#newsletter)
 
 ## What is this?
-A collection of resources to help understand and improve mental wellbeing.
+Mindvivo is a comprehensive platform dedicated to improving mental wellbeing through a growing collection of resources. Our mission is to provide accessible, evidence-based tools, expert advice, and community support to help individuals navigate the complexities of mental health.
 
-Also (based on interest) an upcoming, curated weekly [newsletter](#newsletter) of the internet's best mental health resources.
+At the heart of Mindvivo is a carefully curated database designed to empower users with the knowledge and strategies they need to foster resilience, manage stress, and improve overall mental health.
 
 ## Goal
 More than a guide, a community sourced and curated resource for achieving proper mental wellbeing in any situation. Whether a pandemic, a personal challenge, or just an off day, this resource can be referenced to help get you through it! This list is by no means exhaustive and I encourage contributions from all members of the community.
