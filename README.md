@@ -1,11 +1,11 @@
 ![image info](./images/amh.png)
 
-# Awesome Mental Health
-Without question, the last few weeks have created an extraordinary amount of challenges that are gripping our economy, critical infrastructure, educational system, and way of life.
+# Mindvivo Mental Health Database
+The world is currently facing a series of rapid changes, affecting every aspect of life—from the economy and public services to education and our daily routines. This wave of uncertainty has left many feeling overwhelmed, anxious, and uncertain about the future.
 
-Based on some ongoing conversations with family/friends, adventures into the bowels of Reddit, and the constant battering of news (and misinformation), a common pattern emerged: The stress and unknown circumstances of current events is taking an extreme toll on all our mental wellbeing.
+At Mindvivo, we understand that the mental health impacts of these challenges are real and widespread. Stress, fear, and the unknown can weigh heavily on our wellbeing, making it difficult to navigate daily life. But we also know that with the right support and resources, it’s possible to build resilience and find strength in adversity.
 
-*The best way out is always through.* - Robert Frost
+Our mission is to provide guidance, tools, and a supportive community to help you manage the emotional toll of these uncertain times. Together, we can foster a sense of hope and empower each other to move forward with greater clarity and confidence.
 
 ## Table of Contents
 - [What is it?](#what-is-it)
@@ -299,10 +299,13 @@ How you live with a purpose
   - [Here Are The 4 Simple Introspection Steps That Will Boost Self Awareness](https://medium.com/behavior-design/here-are-the-4-simple-introspection-steps-that-will-boost-self-awareness-4be256bbf70a)
 
 
-## Newsletter
-If you are interested in receiving a curated weekly newsletter with mental health resources, please sign up below.
-Based on demand/interest, we can continue to grow this list of resources, continue to provide weekly updates, and continue to help all of us to achieve stronger mental health in these challenging times 🧠
+# Mindvivo App 
 
-[Newsletter Sign Up Form](https://forms.gle/ugoJ2vrNRR7N3Vcg8)
+Stay engaged with mental health resources right at your fingertips! Sign up for our weekly Mindvivo newsletter to receive curated content, tools, and strategies that support your mental wellbeing. Access these resources on the go by downloading the Mindvivo app or visiting our website at [mindvivo.com](https://mindvivo.com).
 
-We hate spam even more than you do, you can unsubscribe at anytime.
+As our community grows, we will continue to expand and improve, offering even more resources to help you achieve lasting mental health.
+
+To learn more about the vision behind Mindvivo, check out a personal message from our founder, Bao Gia Diep, at [mindvivo.com/founder](https://mindvivo.com/founder).
+
+We value your privacy, let make mental health care accessable to everyone.
+
